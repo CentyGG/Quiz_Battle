@@ -15,8 +15,7 @@ class LoginFragment : Fragment() {
     private val binding get() = _binding!!;
 
     override fun onCreate(savedInstanceState: Bundle?) {
-        super.onCreate(savedInstanceState)
-
+        super.onCreate(savedInstanceState)//ггвп
     }
 
     override fun onCreateView(
